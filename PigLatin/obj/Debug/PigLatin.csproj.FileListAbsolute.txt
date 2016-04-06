@@ -1,0 +1,6 @@
+C:\dev\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+C:\dev\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+C:\dev\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+C:\dev\PigLatin\PigLatin\obj\Debug\PigLatin.csprojResolveAssemblyReference.cache
+C:\dev\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+C:\dev\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
